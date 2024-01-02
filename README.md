@@ -268,4 +268,5 @@ body {
 ![image](https://github.com/ALLAMSESANK/standard-calculator/assets/147120920/f9dfdcb8-451b-4881-af8d-5ac681822cec)
 
 ## Result:
+The program is executed successfully.
 
